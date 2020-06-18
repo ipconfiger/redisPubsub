@@ -1,2 +1,2 @@
 # redisPubsub
-test repo
+创建这个项目我只是想看看新建的repo是不是没有master了，结果并不是
